@@ -15,6 +15,9 @@ number_example = 3
 string_thing = "I love to drink "
 
 # Call the function with and without the string variable
+print("The List with the provided (love) string")
 practice_function(list_of_stuff, number_example, string_thing)
+print("")
+print("The List with the default (hate) string")
 practice_function(list_of_stuff, number_example)
 
