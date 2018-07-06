@@ -1,3 +1,5 @@
+# Lightning Exercise July 6, 2018 - Python Functions
+
 * Write a function that takes a list, a number, and a string as args.
 * The string parameter should have a default value.
 * In the function body, loop over the list and output the items.
